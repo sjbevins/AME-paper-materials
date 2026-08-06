@@ -1,0 +1,4 @@
+[C1] A Abar^T = -I_9 over F_121 -> C Hermitian self-dual
+[C2] all 48,619 minors of A nonzero -> [18,9,10]_121 MDS -> pure [[18,0,10]]_11
+[T1] all 24,310 balanced cuts of Theta nonsingular over F_11 -> the graph state is AME(18,11)
+ALL CHECKS PASSED

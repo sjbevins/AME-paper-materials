@@ -1,0 +1,23 @@
+PASS  [D1] theta_ame125: text, data/.npy, verification/.npy identical
+PASS  [D1] theta_ame1711: text, data/.npy, verification/.npy identical
+PASS  [D1] theta_ame1713: text, data/.npy, verification/.npy identical
+PASS  [D1] theta_ame1811: text, data/.npy, verification/.npy identical
+PASS  [D1] theta_ame1813: text, data/.npy, verification/.npy identical
+PASS  [D2] theta_ame125: symmetric with entries in F_5
+PASS  [D2] theta_ame1711: symmetric with entries in F_11
+PASS  [D2] theta_ame1713: symmetric with entries in F_13
+PASS  [D2] theta_ame1811: symmetric with entries in F_11
+PASS  [D2] theta_ame1813: symmetric with entries in F_13
+PASS  [D3] theta_ame125 equals THETA embedded in verify_ame_12_5.py (off-diagonal)
+PASS  [D3] theta_ame1811 equals THETA embedded in verify_ame_18_11.py (off-diagonal)
+PASS  [D4] constructions.json A_5 equals A embedded in verify_ame_12_5.py
+PASS  [D4] q=11 kernel + group rule reproduce A embedded in verify_ame_18_11.py
+PASS  [D4] q=13 kernel equals A_GEN embedded in verify_ame_18_13.py
+PASS  [D5] theta_ame1711 is the deletion of vertex [17] of theta_ame1811
+PASS  [D5] theta_ame1713 is the deletion of vertex [17] of theta_ame1813
+PASS  [D6] theta_ame125: all 462 balanced cuts nonsingular over F_5
+PASS  [D6] theta_ame125: determinant-residue counts equal [89, 154, 131, 88]
+PASS  [D6] theta_ame1811: all 24,310 balanced cuts nonsingular over F_11
+PASS  [D6] theta_ame1813: all 24,310 balanced cuts nonsingular over F_13
+
+ALL CONSISTENCY CHECKS PASSED

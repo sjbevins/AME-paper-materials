@@ -1,0 +1,30 @@
+LEGACY q=13
+viable_templates=12120
+profiles=764
+distinct_family_sizes=136
+family_rank_1=27571712
+family_rank_2=46387712
+family_rank_3=1185583616
+family_rank_4=1351013888
+family_rank_5=12252982784
+searched_family_distinct_rank=5
+family_rank_6=30301311488
+family_rank_7=50980095488
+family_rank_8=58093597184
+family_rank_9=198047607296
+family_rank_10=313163443712
+PROFILE family=27571712 H=(3,6) shape=(6,6,3,3) sp=(2,4) pr=(1,1,1,1,1,1) count=6
+PROFILE family=46387712 H=(12) shape=(12,6) sp=(2,2) pr=(1,1,1,2,2) count=1
+PROFILE family=1185583616 H=(2,8) shape=(8,8,1,1) sp=(2,4) pr=(1,1,1,1,2) count=1
+PROFILE family=1185583616 H=(3,6) shape=(6,6,3,3) sp=(2,4) pr=(1,1,1,1,2) count=36
+PROFILE family=1185583616 H=(3,6) shape=(9,6,2,1) sp=(2,4) pr=(1,1,1,1,2) count=4
+PROFILE family=1185583616 H=(12) shape=(12,3,2,1) sp=(2,4) pr=(1,1,1,1,2) count=1
+PROFILE family=1185583616 H=(12) shape=(12,4,1,1) sp=(2,4) pr=(1,1,1,1,2) count=1
+PROFILE family=1351013888 H=(2,2,4) shape=(8,8,1,1) sp=(2,2,2,4) pr=(1,1,1,1) count=3
+PROFILE family=1351013888 H=(2,6) shape=(12,2,2,2) sp=(2,2,2,4) pr=(1,1,1,1) count=1
+PROFILE family=1351013888 H=(2,6) shape=(12,4,1,1) sp=(2,2,2,4) pr=(1,1,1,1) count=1
+PROFILE family=1351013888 H=(4,4) shape=(8,4,4,2) sp=(2,2,2,4) pr=(1,1,1,1) count=12
+PROFILE family=1351013888 H=(4,4) shape=(8,8,1,1) sp=(2,2,2,4) pr=(1,1,1,1) count=3
+PROFILE family=12252982784 H=(3,3) shape=(9,9) sp=(2) pr=(2,2,2,2) count=1 SEARCHED
+PROFILE family=12252982784 H=(3,6) shape=(9,9) sp=(2) pr=(2,2,2,2) count=1
+PROFILE family=30301311488 H=(12) shape=(12,2,2,2) sp=(4,4) pr=(1,1,1,1,1) count=1

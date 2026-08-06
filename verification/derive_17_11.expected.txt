@@ -1,0 +1,22 @@
+primary deficient: 0 / 24310
+stored theta_ame1711 matches deletion of last vertex: True
+deletion  1: deficient=0
+deletion  2: deficient=0
+deletion  3: deficient=0
+deletion  4: deficient=0
+deletion  5: deficient=0
+deletion  6: deficient=0
+deletion  7: deficient=0
+deletion  8: deficient=0
+deletion  9: deficient=0
+deletion 10: deficient=0
+deletion 11: deficient=0
+deletion 12: deficient=0
+deletion 13: deficient=0
+deletion 14: deficient=0
+deletion 15: deficient=0
+deletion 16: deficient=0
+deletion 17: deficient=0
+deletion 18: deficient=0
+all-deletion census: 18/18
+ALL CHECKS PASSED

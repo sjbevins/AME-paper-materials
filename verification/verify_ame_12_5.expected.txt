@@ -1,0 +1,5 @@
+[T1] 462 balanced cuts nonsingular over F_5; det checksum (89,154,131,88) OK
+[C1] A Abar^T = -I_6 over F_25 (36 products) OK -> C = rowspace[I|A] is Hermitian self-dual
+[C2] all 923 minors of A nonzero, counts (36,225,400,225,36,1) OK -> C is MDS, d = 7
+[C3] P = [11,6], B = [11,5], P subset of B^perp_h, dim B^perp_h = 6 = dim P -> B^perp_h = P; MDS propagation gives d(P)=6, d(B)=7 -> pure [[11,1,6]]_5 exists
+ALL CHECKS PASSED

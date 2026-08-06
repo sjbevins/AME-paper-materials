@@ -1,0 +1,293 @@
+{
+  "format_version": 1,
+  "coordinate_order_Z3xZ3": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "AME_12_5": {
+    "field": {
+      "q": 5,
+      "extension_degree": 2,
+      "polynomial": "alpha^2 + alpha + 2",
+      "encoding": "a + 5 b <-> a + b alpha"
+    },
+    "systematic_generator": "[I_6 | A_5]",
+    "A_5_integer_encoding": [
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        23,
+        1,
+        2,
+        3,
+        5,
+        3
+      ],
+      [
+        19,
+        7,
+        1,
+        22,
+        17,
+        12
+      ],
+      [
+        9,
+        15,
+        11,
+        2,
+        18,
+        15
+      ],
+      [
+        1,
+        4,
+        22,
+        9,
+        2,
+        1
+      ],
+      [
+        6,
+        7,
+        18,
+        15,
+        10,
+        2
+      ]
+    ],
+    "classical_code": "[12,6,7]_25 Hermitian self-dual MDS",
+    "quantum_code": "[[12,0,7]]_5",
+    "minor_count": 923,
+    "balanced_cut_count": 462,
+    "determinant_residue_checksum": [
+      89,
+      154,
+      131,
+      88
+    ],
+    "schur_square_dimension": 12,
+    "automorphism_group": "Dih(Z_3^2), order 18, coordinate orbits 9+3"
+  },
+  "AME_18_11_and_17_11": {
+    "field": {
+      "q": 11,
+      "extension_degree": 2,
+      "polynomial": "gamma^2 + 1",
+      "encoding": "a + 11 b <-> a + b gamma"
+    },
+    "kernel_pairs_a_plus_b_gamma": [
+      [
+        [
+          4,
+          8
+        ],
+        [
+          10,
+          3
+        ],
+        [
+          9,
+          10
+        ]
+      ],
+      [
+        [
+          8,
+          10
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          8,
+          10
+        ]
+      ],
+      [
+        [
+          9,
+          10
+        ],
+        [
+          10,
+          3
+        ],
+        [
+          4,
+          8
+        ]
+      ]
+    ],
+    "kernel_integer_encoding": [
+      [
+        92,
+        43,
+        119
+      ],
+      [
+        118,
+        88,
+        118
+      ],
+      [
+        119,
+        43,
+        92
+      ]
+    ],
+    "group_circulant_rule": "A[x,y] = a(y-x), x,y in Z_3^2",
+    "classical_code": "[18,9,10]_121 Hermitian self-dual MDS",
+    "quantum_code": "[[18,0,10]]_11",
+    "projected_quantum_code": "[[17,0,9]]_11",
+    "minor_count": 48619,
+    "balanced_cut_count": 24310,
+    "all_vertex_deletion_rank_tests": 437580,
+    "raw_invariant_family_size": 5159780352,
+    "partial_hit_evidence": {
+      "count": 87,
+      "candidate_index_min": 3034277,
+      "candidate_index_max": 5598532
+    }
+  },
+  "AME_18_13_and_17_13": {
+    "field": {
+      "q": 13,
+      "extension_degree": 2,
+      "polynomial": "beta^2 + beta + 2",
+      "encoding": "c0 + 13 c1 <-> c0 + c1 beta"
+    },
+    "kernel_pairs_c0_plus_c1_beta": [
+      [
+        [
+          6,
+          12
+        ],
+        [
+          9,
+          9
+        ],
+        [
+          1,
+          7
+        ]
+      ],
+      [
+        [
+          1,
+          10
+        ],
+        [
+          11,
+          7
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      [
+        [
+          8,
+          12
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          2,
+          7
+        ]
+      ]
+    ],
+    "kernel_integer_encoding": [
+      [
+        162,
+        126,
+        92
+      ],
+      [
+        131,
+        102,
+        65
+      ],
+      [
+        164,
+        123,
+        93
+      ]
+    ],
+    "group_circulant_rule": "A[x,y] = a(y-x), x,y in Z_3^2",
+    "classical_code": "[18,9,10]_169 Hermitian self-dual MDS",
+    "quantum_code": "[[18,0,10]]_13",
+    "projected_quantum_code": "[[17,0,9]]_13",
+    "minor_count": 48619,
+    "balanced_cut_count": 24310,
+    "all_vertex_deletion_rank_tests": 437580,
+    "raw_invariant_family_size": 12252982784,
+    "norm_one_scaling_quotient_size": 875213056,
+    "partial_hit_evidence": {
+      "count": 96,
+      "candidate_index_min": 10416422,
+      "candidate_index_max": 11359239,
+      "published_candidate_index": 10431895
+    }
+  },
+  "template_census_scope": "nontrivial untwisted abelian permutation templates on 18 coordinates; abelian groups H of order at most 18 with gcd(|H|,q)=1 and exponent dividing q^2-1; all orbit-stabilizer multisets summing to 18",
+  "template_census_corrected": {
+    "q11": {
+      "viable_templates": 18970,
+      "profiles": 371,
+      "distinct_family_sizes": 44,
+      "searched_family_distinct_rank": 3
+    },
+    "q13": {
+      "viable_templates": 22381,
+      "profiles": 790,
+      "distinct_family_sizes": 136,
+      "searched_family_distinct_rank": 5
+    }
+  }
+}

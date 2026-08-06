@@ -1,0 +1,9 @@
+Verification rerun: 2026-08-04 12:06:06 UTC
+==> verify_ame_12_5.py
+==> verify_ame_18_11.py
+==> verify_ame_18_13.py
+==> verify_17_11_numba.py
+==> corrected template census
+ALL PACKAGED VERIFICATION CHECKS PASSED
+
+TOTAL VERIFICATION WALL TIME: 33.19 s

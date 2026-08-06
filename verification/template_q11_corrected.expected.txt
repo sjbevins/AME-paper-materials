@@ -1,0 +1,30 @@
+CORRECTED q=11
+viable_templates=18970
+profiles=371
+distinct_family_sizes=44
+family_rank_1=110592
+family_rank_2=441925632
+family_rank_3=5159780352
+searched_family_distinct_rank=3
+family_rank_4=11796959232
+family_rank_5=424690532352
+family_rank_6=572735619072
+family_rank_7=213519020654592
+family_rank_8=658350313684992
+family_rank_9=5699771634696192
+family_rank_10=7056675562586112
+PROFILE family=110592 H=(15) shape=(15,3) sp=(2,2,2) pr=(1,1,1,1,1,1) count=1
+PROFILE family=441925632 H=(2,8) shape=(8,8,1,1) sp=(2,2,2,4) pr=(1,1,1,1) count=1
+PROFILE family=5159780352 H=(3,3) shape=(9,9) sp=(2,2,2,2,2,2,2,2,2) pr=() count=1 SEARCHED
+PROFILE family=5159780352 H=(3,6) shape=(9,9) sp=(2,2,2,2,2,2,2,2,2) pr=() count=1
+PROFILE family=11796959232 H=(10) shape=(10,5,2,1) sp=(2,4) pr=(1,1,2,2) count=1
+PROFILE family=424690532352 H=(2,8) shape=(8,8,1,1) sp=(2,2,2,4) pr=(2,2) count=2
+PROFILE family=424690532352 H=(8) shape=(8,8,1,1) sp=(2,2,2,4) pr=(2,2) count=1
+PROFILE family=572735619072 H=(2,2,2) shape=(8,8,1,1) sp=(2,2,2,2,2,2,2,4) pr=() count=1
+PROFILE family=572735619072 H=(2,2,2,2) shape=(8,8,1,1) sp=(2,2,2,2,2,2,2,4) pr=() count=15
+PROFILE family=572735619072 H=(2,2,4) shape=(8,8,1,1) sp=(2,2,2,2,2,2,2,4) pr=() count=7
+PROFILE family=572735619072 H=(2,4) shape=(8,8,1,1) sp=(2,2,2,2,2,2,2,4) pr=() count=1
+PROFILE family=572735619072 H=(2,8) shape=(8,8,1,1) sp=(2,2,2,2,2,2,2,4) pr=() count=1
+PROFILE family=572735619072 H=(3,6) shape=(6,6,3,3) sp=(2,2,2,2,2,2,2,4) pr=() count=12
+PROFILE family=572735619072 H=(4,4) shape=(8,8,1,1) sp=(2,2,2,2,2,2,2,4) pr=() count=3
+PROFILE family=213519020654592 H=(2,8) shape=(8,4,2,2,1,1) sp=(2,2,2,2,6) pr=(1,1) count=4
