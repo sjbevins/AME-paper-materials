@@ -5,7 +5,7 @@ Reproducibility package for the paper
 > **Symmetry-guided construction and exact certification of absolutely
 > maximally entangled states**
 > Samuel Bevins and Yunus Bidav
-> (arXiv identifier to be added on announcement)
+> ([arXiv](https://arxiv.org/abs/2608.05781))
 
 The paper constructs Hermitian self-dual MDS codes with parameters
 [12,6,7]_25, [18,9,10]_121, and [18,9,10]_169 and, from them, certifies
